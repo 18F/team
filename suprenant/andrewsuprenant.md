@@ -168,6 +168,7 @@ Things I've worked on or have gotten done here:
 
 Stuff I did before I came here:
  - Produced a science documentary that aired on PBS
+ - Founded and ran a nonprofit production company to support that and other educational films
  - Worked with Roger Ebert and WTTW on their websites
  - Worked with Steve James ("Hoop Dreams") and the fine folks at Kartemquin Films in Chicago
  - Consulted a lot. Sold and executed many web and media projects, largely with nonprofits and small businesses
