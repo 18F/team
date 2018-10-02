@@ -172,6 +172,7 @@ Stuff I did before I came here:
  - Worked with Steve James ("Hoop Dreams") and the fine folks at Kartemquin Films in Chicago
  - Consulted a lot. Sold and executed many web and media projects, largely with nonprofits and small businesses
  - Worked for some agencies and consultancies. Some were more design/branding focused and some much more oriented toward web/app development
+ - Did website optimization, including running A/B tests
 
 You can find me in Slack:
 - #product, #g-agile, #g-diversity, #management-skills, #hi, #movies, #turntable
